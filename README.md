@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/pakistan/umarprogrammer19.svg)](https://user-badge.committers.top/pakistan/umarprogrammer19)
+
 # 💫 About Me:
 I'm a Full Stack Developer with expertise in React, Node.js, and Next.js, focused on building dynamic, scalable web applications. Passionate about AI, I leverage Python and frameworks like TensorFlow and PyTorch for machine learning and data-driven projects. I also specialize in Cybersecurity, applying ethical hacking and penetration testing to ensure secure systems. My projects combine cutting-edge web development, intelligent automation, and robust security solutions.
 
